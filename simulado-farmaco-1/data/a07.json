@@ -1,0 +1,387 @@
+{
+ "assunto": "aula07-insulinas",
+ "category": "Aula 7 · Insulinas e insulinoterapia",
+ "prefixo": "INS",
+ "questoes": [
+  {
+   "s": "Diagnóstico de DM (Diretriz SBD 2026)",
+   "d": "B",
+   "q": "Um homem de 48 anos, assintomático, realiza exames de rotina. Na mesma amostra de sangue, apresenta glicemia de jejum de 131 mg/dL e hemoglobina glicada (HbA1c) de 6,7%. Considerando os critérios laboratoriais da Diretriz da Sociedade Brasileira de Diabetes (SBD) apresentados em aula, assinale a interpretação correta:",
+   "a": [
+    "Diabetes confirmado: há dois critérios na faixa diagnóstica (jejum ≥ 126 mg/dL e HbA1c ≥ 6,5%).",
+    "Pré-diabetes, pois pela diretriz a HbA1c só passa a confirmar diabetes quando é igual ou superior a 7,0%.",
+    "Diagnóstico indefinido, pois a glicemia de jejum isolada não tem valor e o TTGO de 2 horas é obrigatório para confirmar.",
+    "Exames normais, pois a glicemia de jejum só passa a ser considerada diagnóstica de diabetes acima de 140 mg/dL."
+   ],
+   "j": [
+    "Pela tabela da SBD, jejum ≥ 126 mg/dL e HbA1c ≥ 6,5% são faixas de DM; dois critérios alterados (mesmo na mesma amostra) confirmam o diagnóstico em assintomático.",
+    "O ponto de corte diagnóstico da HbA1c é 6,5%; a faixa de pré-diabetes vai de 5,7% a 6,4%.",
+    "O TTGO é um dos critérios possíveis, não um exame obrigatório; jejum e HbA1c alterados já bastam.",
+    "O corte da glicemia de jejum para DM é 126 mg/dL; o valor normal é abaixo de 100 mg/dL."
+   ],
+   "p": "Critérios SBD: jejum ≥ 126; ao acaso ≥ 200 com sintomas; TTGO 1 h ≥ 209; TTGO 2 h ≥ 200; HbA1c ≥ 6,5%.",
+   "ap": "Pré-diabetes na mesma tabela: jejum 100–125 mg/dL, TTGO 1 h 155–208 mg/dL, TTGO 2 h 140–199 mg/dL e HbA1c 5,7–6,4%. O jejum considerado é de 8 a 12 horas, e o TTGO usa 75 g de glicose anidra.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026 (Tabela 1)"
+  },
+  {
+   "s": "Mecanismo de ação da insulina",
+   "d": "I",
+   "q": "Durante uma aula prática, um estudante observa que, após a injeção de insulina em um paciente com hiperglicemia, a captação de glicose aumenta de forma marcante no músculo esquelético e no tecido adiposo, mas pouco se altera no tecido cerebral. Considerando o mecanismo molecular da insulina, assinale a explicação mais adequada:",
+   "a": [
+    "Ativa receptor tirosina-quinase que se autofosforila e leva o GLUT-4 à membrana de miócitos e adipócitos.",
+    "Liga-se a receptor acoplado à proteína Gs, eleva o AMPc e ativa o GLUT-2 com a mesma intensidade em todos os tecidos.",
+    "Age em receptor nuclear hipotalâmico que reduz a captação cerebral de glicose e a desvia para o músculo e a gordura.",
+    "Abre canais de potássio sensíveis ao ATP no músculo, hiperpolarizando a célula e favorecendo a difusão simples da glicose."
+   ],
+   "j": [
+    "O receptor de insulina é tirosina-quinase: a autofosforilação dispara a cascata que leva vesículas com GLUT-4 à membrana (músculo e tecido adiposo, os tecidos insulinodependentes). O neurônio capta glicose por transportadores independentes de insulina.",
+    "O receptor de insulina não é acoplado à proteína G, e o GLUT-2 (fígado, célula beta) não é o transportador regulado pela insulina no músculo.",
+    "A insulina não atua por receptor nuclear; quem age por receptor intracelular são, por exemplo, os glicocorticoides.",
+    "Canais K-ATP são alvo das sulfonilureias na célula beta pancreática, e a glicose entra por difusão facilitada (GLUT), não por difusão simples."
+   ],
+   "p": "Receptor tirosina-quinase → autofosforilação → GLUT-4 em músculo e tecido adiposo + inibição da gliconeogênese hepática.",
+   "ap": "Além da captação periférica de glicose, a insulina inibe a gliconeogênese e a glicogenólise hepáticas, estimula a síntese de glicogênio, de triglicerídeos e de proteínas e inibe a lipólise.",
+   "f": "Slide da aula 7 · Katzung (Farmacologia Básica e Clínica)"
+  },
+  {
+   "s": "Insulina regular por via intravenosa",
+   "d": "B",
+   "q": "Uma jovem de 19 anos com DM1 é admitida na emergência com cetoacidose diabética (glicemia 480 mg/dL, pH 7,12, cetonemia positiva). Após a expansão volêmica, o residente sugere iniciar insulina NPH por via intravenosa em bomba de infusão. Assinale a conduta e a justificativa corretas:",
+   "a": [
+    "Insulina regular IV, pois é solução cristalina; a NPH é suspensão com protamina, só para uso subcutâneo.",
+    "Manter a NPH IV, pois a protamina prolonga a ação e reduz o número de ajustes necessários na bomba de infusão.",
+    "Glargina IV, pois a ausência de pico garante queda mais lenta, segura e previsível da glicemia durante a cetoacidose.",
+    "Pré-misturada 70/30 IV, pois associa na mesma infusão o efeito imediato da regular ao efeito prolongado da NPH."
+   ],
+   "j": [
+    "A insulina regular (cristalina) é a preparação usada por via IV na cetoacidose e na síndrome hiperglicêmica hiperosmolar, com ação imediata e meia-vida curta que permite titular a infusão.",
+    "A NPH é suspensão (insulina conjugada à protamina) feita para absorção lenta pelo subcutâneo; não deve ser administrada por via IV.",
+    "A glargina depende da precipitação no subcutâneo para ter ação prolongada; não é usada por via IV.",
+    "A pré-misturada contém NPH, que é suspensão; por isso não pode ser infundida por via IV."
+   ],
+   "p": "Só a insulina regular (solução cristalina) é usada por via IV: cetoacidose e estado hiperglicêmico hiperosmolar.",
+   "ap": "Por via IV, os hexâmeros da insulina regular se dissociam rapidamente e a meia-vida plasmática é de poucos minutos, o que permite ajustar a infusão hora a hora. As preparações de ação intermediária e longa foram desenhadas para retardar a absorção subcutânea.",
+   "f": "Slide da aula 7 · Katzung (Farmacologia Básica e Clínica)"
+  },
+  {
+   "s": "Insulina e potássio na cetoacidose",
+   "d": "A",
+   "q": "Na mesma paciente com cetoacidose diabética, o potássio sérico inicial é de 3,1 mEq/L (VR: 3,5 a 5,0 mEq/L). Considerando o efeito da insulina sobre a distribuição dos eletrólitos, assinale a conduta mais adequada:",
+   "a": [
+    "Repor potássio antes da insulina, pois ela ativa a Na+/K+-ATPase e desloca K+ para o intracelular.",
+    "Iniciar logo a insulina em dose dobrada, pois a correção da acidose eleva o potássio sérico e dispensa a reposição.",
+    "Suspender a hidratação, pois a diluição do plasma é a única causa da hipocalemia e a insulina não altera o potássio.",
+    "Prescrever espironolactona, pois a hipocalemia da cetoacidose decorre de hiperaldosteronismo induzido pela insulina."
+   ],
+   "j": [
+    "A insulina ativa a Na+/K+-ATPase e leva potássio para dentro das células; com K+ < 3,3 mEq/L, iniciar insulina pode precipitar hipocalemia grave e arritmias. Por isso, repõe-se o potássio primeiro.",
+    "A correção da acidose e a insulina reduzem o potássio sérico (shift intracelular), e não o elevam.",
+    "A hidratação é parte essencial do tratamento; a hipocalemia reflete perdas urinárias e deslocamento, e a insulina interfere sim no potássio.",
+    "A insulina não causa hiperaldosteronismo; a espironolactona não trata a hipocalemia aguda da cetoacidose."
+   ],
+   "p": "Insulina desloca K+ para o intracelular (Na+/K+-ATPase): repor potássio antes se estiver baixo.",
+   "ap": "Mesmo com potássio sérico normal na admissão, o paciente em cetoacidose tem déficit corporal total de potássio por diurese osmótica; a insulina desmascara esse déficit ao deslocar o íon para o intracelular.",
+   "f": "Katzung (Farmacologia Básica e Clínica) · complementa o slide da aula 7"
+  },
+  {
+   "s": "Insulina regular: horário de aplicação",
+   "d": "I",
+   "q": "Uma mulher de 55 anos com DM2 usa insulina regular subcutânea antes do almoço. Ela aplica a insulina e começa a comer imediatamente. Relata glicemia de 260 mg/dL uma hora após o almoço e episódios de tremor e sudorese no meio da tarde. Considerando a farmacocinética da insulina regular, assinale a orientação adequada:",
+   "a": [
+    "Aplicar a regular 30 a 60 minutos antes da refeição, pois seu efeito começa nesse intervalo e dura cerca de 6 horas.",
+    "Aplicar a regular logo após terminar a refeição, pois seu início é imediato e o pico coincide com a absorção da glicose.",
+    "Trocar a regular por NPH antes do almoço, pois a NPH começa a agir em 5 minutos e não apresenta pico de ação.",
+    "Manter o horário e dobrar a dose, pois a hiperglicemia pós-prandial indica resistência à insulina, não erro de horário."
+   ],
+   "j": [
+    "A regular começa a agir em 30–60 min, tem pico em 2–3 h e dura 5–8 h. Aplicada junto com a comida, chega tarde para o pico glicêmico (hiperglicemia pós-prandial) e sobra efeito horas depois (hipoglicemia vespertina).",
+    "O início da regular não é imediato; aplicada após a refeição o descompasso pioraria. Quem tem início em minutos são os análogos ultrarrápidos.",
+    "A NPH é insulina basal de ação intermediária, com início em 1–2 h e pico em 4–10 h; não serve para cobrir refeição.",
+    "O padrão (pico alto logo após comer e hipoglicemia horas depois) é de descompasso de horário; dobrar a dose aumentaria a hipoglicemia."
+   ],
+   "p": "Regular: início 30–60 min, pico 2–3 h, duração 5–8 h → aplicar 30–60 min antes da refeição.",
+   "ap": "A insulina regular forma hexâmeros no tecido subcutâneo, que precisam se dissociar para serem absorvidos; esse atraso explica o início em 30–60 min e a necessidade de aplicá-la antes da refeição.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026 (formulações)"
+  },
+  {
+   "s": "Análogos ultrarrápidos (lispro, asparte, glulisina)",
+   "d": "I",
+   "q": "Um universitário de 20 anos com DM1 tem rotina irregular e frequentemente não sabe quanto vai comer. Ele usa insulina regular antes das refeições e tem hipoglicemias 3 a 4 horas depois de comer. O médico propõe trocar por um análogo ultrarrápido. Assinale a alternativa que justifica a troca:",
+   "a": [
+    "Agem em 5 a 15 minutos e duram 3 a 5 horas; aplicados logo antes de comer, deixam menos hipoglicemia tardia.",
+    "Começam a agir em 2 a 4 horas e duram cerca de 24 horas, cobrindo ao mesmo tempo a refeição e a necessidade basal do dia.",
+    "São conjugados à protamina, o que retarda o pico e evita a hiperglicemia pós-prandial em quem come em horários irregulares.",
+    "São administrados por via oral junto com a refeição e por isso dispensam o ajuste de dose pela glicemia capilar."
+   ],
+   "j": [
+    "Pela tabela da SBD, os análogos ultrarrápidos têm início em 5–15 min, pico em 30 min–2 h e duração de 3–5 h: acompanham melhor a refeição e deixam menos efeito residual, reduzindo a hipoglicemia tardia.",
+    "Início de 2–4 h e duração de 20–24 h descrevem a glargina U100, uma insulina basal.",
+    "A protamina está na NPH (e nas frações NPL/NPA das pré-misturadas), não nos análogos ultrarrápidos.",
+    "A insulina é peptídeo destruído no trato digestivo; os análogos são subcutâneos e a dose é ajustada pela glicemia capilar."
+   ],
+   "p": "Ultrarrápidas: início 5–15 min, pico 30 min–2 h, duração 3–5 h; aplicar imediatamente antes de comer.",
+   "ap": "Pequenas trocas de aminoácidos na cadeia B (como inverter prolina e lisina na lispro) dificultam a formação de hexâmeros, o que acelera a absorção subcutânea.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026 · Whalen (Farmacologia Ilustrada)"
+  },
+  {
+   "s": "NPH: horário da dose noturna",
+   "d": "A",
+   "q": "Um homem de 34 anos com DM1 usa NPH antes do café da manhã e antes do jantar (19 h), associada à insulina regular nas refeições. Ele apresenta hipoglicemias repetidas por volta das 3 h da madrugada e glicemia de jejum elevada ao acordar. Considerando o perfil da NPH, assinale a melhor conduta:",
+   "a": [
+    "Passar a dose noturna de NPH para a hora de dormir (cerca de 22 h), aproximando o pico do amanhecer.",
+    "Antecipar a NPH noturna para as 16 h, para que o pico ocorra mais cedo e a insulina cubra melhor a glicemia de jejum.",
+    "Trocar a NPH noturna por insulina regular às 22 h, pois a regular dura cerca de 18 horas e não apresenta pico de ação.",
+    "Aumentar a dose de NPH do jantar, pois a hipoglicemia de madrugada indica que a insulina basal noturna está insuficiente."
+   ],
+   "j": [
+    "A NPH tem pico em 4–10 h: aplicada às 19 h, o pico cai na madrugada (hipoglicemia) e o efeito acaba antes do amanhecer (hiperglicemia de jejum). O slide recomenda a dose da noite ao deitar, por volta das 22 h.",
+    "Antecipar a dose faria o pico ocorrer ainda mais cedo e o efeito acabar antes do amanhecer, piorando a glicemia de jejum.",
+    "A regular dura 5–8 h e tem pico em 2–3 h; não serve como insulina basal da noite.",
+    "A hipoglicemia de madrugada mostra excesso de efeito no pico; aumentar a dose pioraria o quadro."
+   ],
+   "p": "NPH: início 1–2 h, pico 4–10 h, duração 10–18 h; dose da noite ao deitar (~22 h).",
+   "ap": "Outra opção para quem tem hipoglicemia noturna com NPH é trocar por análogo basal sem pico (glargina, detemir, degludeca), que dá perfil mais estável ao longo da noite.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026"
+  },
+  {
+   "s": "NPH: composição",
+   "d": "B",
+   "q": "Ao explicar a um paciente por que a insulina NPH tem aspecto turvo e precisa ser homogeneizada antes da aplicação, o médico descreve a origem da sigla e o motivo de sua ação mais lenta. Assinale a alternativa correta:",
+   "a": [
+    "Neutral Protamine Hagedorn: insulina com protamina em pH neutro, formando suspensão de ação intermediária.",
+    "Novo Pâncreas Humano: insulina sintetizada sem zinco, o que acelera a absorção subcutânea e confere ação ultrarrápida.",
+    "Nível Plasmático Homogêneo: insulina ligada à albumina sérica, o que elimina o pico e garante ação de cerca de 42 horas.",
+    "Neutral Peptide Hormone: insulina diluída em solução cristalina e, por isso, indicada para aplicação intravenosa."
+   ],
+   "j": [
+    "N = neutra, P = protamina, H = Hagedorn (pesquisador). A conjugação com protamina forma uma suspensão que se dissolve devagar no subcutâneo, daí a ação intermediária e o aspecto turvo.",
+    "A sigla não significa isso, e a NPH não tem ação ultrarrápida.",
+    "Ligação à albumina é o mecanismo da detemir (cadeia de ácido graxo); duração de 42 h é a da degludeca.",
+    "A NPH é suspensão turva, não solução cristalina, e não é usada por via IV."
+   ],
+   "p": "NPH = Neutral Protamine Hagedorn: protamina → suspensão turva, ação intermediária.",
+   "ap": "Por ser suspensão, a NPH precisa ser rolada entre as mãos antes de aspirar; a homogeneização inadequada é causa comum de variação de dose e de glicemias erráticas.",
+   "f": "Slide da aula 7 · Whalen (Farmacologia Ilustrada)"
+  },
+  {
+   "s": "Glargina U100 x U300",
+   "d": "B",
+   "q": "Uma paciente de 60 anos com DM2 usa glargina 100 UI/mL e pergunta ao médico qual a diferença para a glargina 300 UI/mL. Considerando o que foi apresentado em aula, assinale a alternativa correta:",
+   "a": [
+    "U100: início em 2 a 4 h e duração de 20 a 24 h; U300: início em cerca de 6 h e duração de 36 h; ambas sem pico.",
+    "U100: pico em 4 a 10 h e duração de 10 a 18 h; U300: início em 5 minutos, servindo como insulina prandial.",
+    "A U300 deve ser aplicada três vezes ao dia, pois a maior concentração acelera a absorção subcutânea e encurta o efeito.",
+    "As duas têm o mesmo início e a mesma duração; muda só o volume aplicado, e a U300 é de uso intravenoso."
+   ],
+   "j": [
+    "Segundo o slide e a tabela da SBD: U100 tem início em 2–4 h, sem pico, duração de 20–24 h (1 vez ao dia); U300 tem início em ~6 h, sem pico, duração de ~36 h (1 vez ao dia).",
+    "Pico de 4–10 h e duração de 10–18 h é o perfil da NPH; nenhuma glargina é prandial.",
+    "A maior concentração da U300 forma depósito menor e mais compacto, que se dissolve mais devagar: a ação fica mais longa, e a aplicação continua sendo 1 vez ao dia.",
+    "Os perfis são diferentes (U300 mais longa) e a glargina não é usada por via IV."
+   ],
+   "p": "Glargina U100: 2–4 h, sem pico, 20–24 h. Glargina U300: ~6 h, sem pico, ~36 h.",
+   "ap": "A glargina é solúvel em pH ácido e precipita no pH neutro do subcutâneo, formando microprecipitados que liberam insulina de forma lenta e contínua; por isso não pode ser misturada a outras insulinas na mesma seringa.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026"
+  },
+  {
+   "s": "Insulinas basais: perfis comparados",
+   "d": "I",
+   "q": "Considerando a tabela de formulações de insulina basal disponíveis no Brasil (Diretriz SBD 2026), assinale a associação correta entre a insulina e o seu perfil de ação:",
+   "a": [
+    "Degludeca: análogo de ação ultralonga, início em menos de 4 h, sem pico, duração de cerca de 42 horas.",
+    "Detemir: análogo de ação ultrarrápida, com início em 5 minutos, pico em 30 minutos e duração de cerca de 3 horas.",
+    "NPH: análogo de ação ultralonga, sem pico, com duração de cerca de 36 horas após uma única aplicação diária.",
+    "Glargina U100: insulina intermediária com pico em 4 a 10 horas e duração de 10 a 18 horas."
+   ],
+   "j": [
+    "Na tabela da SBD, a degludeca é o análogo de ação ultralonga com início < 4 h, sem pico e duração de 42 h, a mais longa entre as basais.",
+    "A detemir é classificada como análogo de ação intermediária: início 1–3 h, pico 6–8 h, duração 18–22 h.",
+    "A NPH é insulina humana de ação intermediária, com pico (4–10 h) e duração de 10–18 h.",
+    "Esse perfil (pico 4–10 h; 10–18 h) é o da NPH; a glargina U100 não tem pico e dura 20–24 h."
+   ],
+   "p": "Basais: NPH 10–18 h (com pico) · detemir 18–22 h · glargina U100 20–24 h · U300 36 h · degludeca 42 h.",
+   "ap": "Quanto mais longa e plana a insulina basal, menor a variabilidade glicêmica e o risco de hipoglicemia noturna em comparação com a NPH, que tem pico.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026 (formulações)"
+  },
+  {
+   "s": "Glargina x NPH: hipoglicemia noturna",
+   "d": "I",
+   "q": "Uma idosa de 74 anos com DM2 usa NPH ao deitar e teve duas hipoglicemias noturnas no último mês, uma delas com queda. O médico decide trocar a insulina basal por glargina U100. Assinale a justificativa farmacológica mais adequada:",
+   "a": [
+    "A glargina não tem pico e mantém efeito estável por 20 a 24 h, reduzindo a hipoglicemia noturna em relação à NPH.",
+    "A glargina tem pico mais intenso que a NPH durante a madrugada, o que compensa a produção hepática de glicose do amanhecer.",
+    "A glargina começa a agir em 5 a 15 minutos, permitindo que a idosa a aplique só quando a glicemia estiver alta ao deitar.",
+    "A glargina é eliminada inalterada pelos rins, e por isso é a única insulina permitida em pacientes acima de 70 anos."
+   ],
+   "j": [
+    "A ausência de pico e a duração de 20–24 h tornam a glargina uma insulina basal mais previsível, com menos hipoglicemia noturna que a NPH, cujo pico (4–10 h) cai na madrugada.",
+    "A glargina não tem pico; justamente a ausência de pico é a vantagem em relação à NPH.",
+    "Início em 5–15 min é dos análogos ultrarrápidos; a glargina é basal (início em 2–4 h) e não é usada para correção pontual.",
+    "Não há essa restrição; a idade ≥ 70 anos é um critério de acesso à glargina no SUS, não uma exclusividade farmacológica."
+   ],
+   "p": "Glargina: sem pico, 20–24 h → menos hipoglicemia noturna que a NPH.",
+   "ap": "Em idosos, a hipoglicemia é especialmente perigosa (quedas, arritmias, eventos cardiovasculares), o que justifica preferir análogos basais sem pico quando disponíveis.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026"
+  },
+  {
+   "s": "Glargina no SUS: público elegível",
+   "d": "B",
+   "q": "Na Unidade Básica de Saúde, quatro pacientes com diabetes solicitam insulina glargina pelo SUS. De acordo com a estratégia de incorporação apresentada em aula, assinale o paciente que se enquadra no público elegível:",
+   "a": [
+    "Homem de 72 anos com diabetes mellitus tipo 2 em uso de insulina.",
+    "Mulher de 45 anos com diabetes mellitus tipo 1 desde a adolescência.",
+    "Criança de 1 ano e 6 meses com diabetes mellitus tipo 1 recém-diagnosticado.",
+    "Homem de 65 anos com diabetes mellitus tipo 2 em uso de metformina."
+   ],
+   "j": [
+    "São elegíveis pessoas com 70 anos ou mais com DM1 ou DM2; o paciente de 72 anos com DM2 se enquadra.",
+    "Adultos com DM1 entre 18 e 69 anos não estão no público dessa estratégia (que cobre DM1 de 2 a < 18 anos).",
+    "A faixa pediátrica elegível começa aos 2 anos completos; com 1 ano e 6 meses a criança ainda não se enquadra.",
+    "Aos 65 anos o paciente está abaixo do limite de idade de 70 anos."
+   ],
+   "p": "Glargina no SUS: DM1 de 2 a < 18 anos; e pessoas com ≥ 70 anos com DM1 ou DM2.",
+   "ap": "A escolha desses grupos prioriza quem mais sofre com hipoglicemias: crianças e adolescentes com DM1 e idosos, em quem a hipoglicemia causa quedas e eventos cardiovasculares.",
+   "f": "Slide da aula 7"
+  },
+  {
+   "s": "Concentração e unidade de insulina",
+   "d": "B",
+   "q": "Um paciente recebe prescrição de 20 UI de insulina NPH e vai utilizar frasco de concentração U-100 com seringa graduada em mililitros. Assinale o volume a ser aspirado e a definição correta da concentração:",
+   "a": [
+    "0,2 mL, pois a concentração U-100 corresponde a 100 unidades internacionais em cada 1 mL.",
+    "2,0 mL, pois a concentração U-100 corresponde a 10 unidades internacionais em cada 1 mL.",
+    "0,02 mL, pois a concentração U-100 corresponde a 1.000 unidades internacionais em cada 1 mL.",
+    "20 mL, pois a concentração U-100 corresponde a 1 unidade internacional em cada 1 mL."
+   ],
+   "j": [
+    "U-100 = 100 UI/mL (a mais usada); logo 20 UI = 20/100 = 0,2 mL.",
+    "Com 10 UI/mL, 20 UI seriam 2 mL, mas a U-100 tem 100 UI/mL.",
+    "Com 1.000 UI/mL o volume seria 0,02 mL, mas essa não é a concentração U-100.",
+    "U-100 não é 1 UI/mL; aspirar 20 mL causaria superdosagem catastrófica."
+   ],
+   "p": "U-100 = 100 UI/mL (1 mL = 100 UI). Também existe U-500 e glargina U300.",
+   "ap": "A unidade de insulina foi definida biologicamente como a quantidade capaz de reduzir a glicemia de um coelho em jejum para 45 mg/dL. Por isso a dose é expressa em unidades, e não em miligramas.",
+   "f": "Slide da aula 7"
+  },
+  {
+   "s": "Pré-misturadas",
+   "d": "I",
+   "q": "Um homem de 70 anos com DM2, baixa acuidade visual e dificuldade para manusear canetas, mantém HbA1c de 9% apesar de NPH ao deitar. Deseja o menor número possível de aplicações e tem horários de refeição regulares. Assinale a opção que melhor atende ao caso:",
+   "a": [
+    "Pré-misturada NPH/Regular 70/30 antes do café e antes do jantar: basal e prandial em apenas duas aplicações.",
+    "Esquema basal-bolus com glargina e lispro antes de cada refeição, pois exige menos aplicações que qualquer outro esquema.",
+    "Insulina inalada isolada uma vez ao dia, pois sua duração de cerca de 42 horas cobre tanto o jejum quanto as refeições.",
+    "Insulina regular três vezes ao dia, sem insulina basal, pois a regular isolada também controla a glicemia de jejum."
+   ],
+   "j": [
+    "A pré-misturada 70/30 (70% NPH + 30% regular) cobre basal e refeição em duas aplicações diárias; é útil para quem precisa de esquema simples e come em horários regulares.",
+    "O basal-bolus é o esquema mais flexível, mas exige quatro aplicações por dia, o oposto do que o paciente precisa.",
+    "A insulina inalada (Afrezza) é prandial, com início imediato e duração de 1–2 h; não dura 42 h (isso é a degludeca).",
+    "A regular é prandial (dura 5–8 h); sem insulina basal o jejum continuaria descontrolado."
+   ],
+   "p": "Pré-misturada 70/30 = 70% NPH + 30% regular: 2 aplicações (café e jantar), esquema simples.",
+   "ap": "A desvantagem das pré-misturadas é a proporção fixa: não é possível ajustar o componente prandial e o basal separadamente, e o paciente precisa manter horários e quantidades de refeição regulares.",
+   "f": "Slide da aula 7 · Diretriz SBD 2026 · Whalen (Figura 24.8)"
+  },
+  {
+   "s": "Esquema basal-bolus",
+   "d": "B",
+   "q": "Observe três esquemas de reposição de insulina apresentados em aula: (1) regular antes de café, almoço e jantar + NPH ao deitar; (2) pré-misturada NPH/Regular 70/30 antes do café e do jantar; (3) lispro antes de café, almoço e jantar + glargina, detemir ou degludeca ao deitar. Assinale a afirmativa correta:",
+   "a": [
+    "O esquema 3 é o basal-bolus com análogos: basal sem pico para o jejum e ultrarrápida em cada refeição.",
+    "O esquema 2 é o mais flexível, pois permite ajustar separadamente a dose basal e a dose de cada uma das refeições.",
+    "O esquema 1 dispensa insulina basal, pois a regular aplicada antes do jantar mantém a glicemia controlada até a manhã.",
+    "Os três esquemas usam apenas insulinas de ação ultrarrápida e diferem somente no número de aplicações por dia."
+   ],
+   "j": [
+    "O esquema com análogo basal (efeito contínuo, sem pico) mais ultrarrápida nas refeições reproduz a secreção basal e os picos prandiais do pâncreas normal.",
+    "Na pré-misturada a proporção é fixa; é o esquema menos flexível.",
+    "O esquema 1 inclui NPH ao deitar justamente para cobrir a necessidade basal da noite.",
+    "Os esquemas incluem NPH, regular, pré-misturadas e análogos basais, não só ultrarrápidas."
+   ],
+   "p": "Basal-bolus: basal (glargina/detemir/degludeca ou NPH) + bolus prandial (ultrarrápida ou regular) em cada refeição.",
+   "ap": "A secreção fisiológica tem um componente basal contínuo (cerca de metade da insulina diária) e picos após as refeições; o basal-bolus imita esse padrão e permite ajustar cada dose conforme a glicemia capilar.",
+   "f": "Slide da aula 7 · Whalen (Farmacologia Ilustrada, Figura 24.8)"
+  },
+  {
+   "s": "Insulina prandial no DM2",
+   "d": "I",
+   "q": "Um homem de 58 anos com DM2 usa metformina e glargina ao deitar. A glicemia de jejum está na meta (95 mg/dL), mas a HbA1c permanece em 8,4%, com glicemias de 240 mg/dL duas horas após o almoço, sua maior refeição. Segundo a orientação apresentada em aula, assinale a conduta mais adequada:",
+   "a": [
+    "Acrescentar insulina rápida antes da principal refeição, com 2 a 4 UI, ajustando pela glicemia pós-prandial.",
+    "Aumentar a glargina até normalizar a glicemia pós-almoço, mesmo que a glicemia de jejum caia abaixo de 70 mg/dL.",
+    "Suspender a glargina e manter apenas a insulina regular antes do almoço, já que a glicemia de jejum está controlada.",
+    "Associar NPH antes do almoço, pois a NPH começa a agir em 5 minutos e cobre bem o pico glicêmico da refeição."
+   ],
+   "j": [
+    "Com jejum na meta e hiperglicemia pós-prandial, o próximo passo é cobrir a refeição: o slide orienta iniciar 2–4 UI antes da principal refeição e ajustar pela glicemia pós-prandial.",
+    "Elevar a basal para corrigir glicemia pós-prandial causa hipoglicemia de jejum (excesso de basal).",
+    "Suspender a basal faria o jejum descontrolar; o problema atual é apenas a refeição.",
+    "A NPH não tem início em 5 minutos (início em 1–2 h, pico em 4–10 h); não é insulina prandial."
+   ],
+   "p": "DM2 com jejum na meta e HbA1c alta: acrescentar prandial (2–4 UI) antes da principal refeição.",
+   "ap": "Na intensificação do DM2, a insulina prandial costuma ser acrescentada em etapas (uma refeição de cada vez), começando pela refeição que mais eleva a glicemia.",
+   "f": "Slide da aula 7"
+  },
+  {
+   "s": "Glargina na gestação",
+   "d": "I",
+   "q": "Uma gestante de 27 anos com DM1 usa glargina U100 uma vez ao dia e precisa ajustar a dose basal porque a glicemia de jejum está acima da meta. Segundo o que foi apresentado em aula sobre a glargina, assinale a orientação correta:",
+   "a": [
+    "Titular devagar, com intervalos de 3 a 4 dias entre os ajustes, aplicando sempre no mesmo horário.",
+    "Ajustar a dose a cada 6 horas, pois a glargina tem pico em 4 a 10 horas e a resposta à mudança de dose é imediata.",
+    "Suspender a glargina e usar só insulina regular intravenosa durante toda a gestação, pois os análogos são proibidos.",
+    "Dividir a glargina em quatro aplicações diárias em horários variados, para que o efeito acompanhe as refeições."
+   ],
+   "j": [
+    "O slide destaca que, na gestação, o perfil da glargina exige titulação mais lenta (intervalos de 3–4 dias entre ajustes) e aplicação preferencialmente no mesmo horário todos os dias.",
+    "A glargina não tem pico e leva dias para atingir o equilíbrio após cada mudança de dose; ajustes a cada 6 h causariam acúmulo e hipoglicemia.",
+    "A glargina é usada na gestação; a insulina IV é reservada a situações agudas como a cetoacidose.",
+    "A glargina é basal, aplicada 1 vez ao dia; não deve ser fracionada para cobrir refeições."
+   ],
+   "p": "Glargina: mesmo horário todo dia; na gestação, titular devagar (ajuste a cada 3–4 dias).",
+   "ap": "Insulinas basais de longa duração levam alguns dias para atingir o estado de equilíbrio após uma mudança de dose; ajustar antes disso leva a sobreposição de efeito.",
+   "f": "Slide da aula 7"
+  },
+  {
+   "s": "Lipodistrofia no local de aplicação",
+   "d": "I",
+   "q": "Um adolescente de 15 anos com DM1 aplica todas as doses de insulina na mesma região periumbilical há dois anos. Ao exame, há nódulos amolecidos e indolores no local, e a glicemia tornou-se muito variável apesar de doses estáveis. Assinale a explicação e a conduta corretas:",
+   "a": [
+    "Lipo-hipertrofia pela aplicação repetida no mesmo local, com absorção errática; fazer rodízio dos locais.",
+    "Reação alérgica sistêmica à protamina, que exige suspensão definitiva de toda insulina e troca por sulfonilureia.",
+    "Abscesso bacteriano por contaminação da agulha, que exige drenagem cirúrgica e troca da insulina por via intravenosa.",
+    "Resistência à insulina por anticorpos, que se resolve aplicando a insulina sempre no mesmo ponto para formar reservatório."
+   ],
+   "j": [
+    "A aplicação repetida no mesmo ponto causa lipo-hipertrofia; nessa área a absorção é irregular, gerando variabilidade glicêmica. O rodízio dos locais previne e trata o problema.",
+    "Nódulos indolores e sem sinais sistêmicos não indicam alergia; sulfonilureias não funcionam no DM1.",
+    "Não há sinais inflamatórios (dor, calor, flutuação); trata-se de alteração do tecido adiposo, não de abscesso.",
+    "Aplicar sempre no mesmo ponto é justamente a causa do problema."
+   ],
+   "p": "Lipodistrofia (lipo-hipertrofia) no local de aplicação → absorção errática → rodízio de locais.",
+   "ap": "A hipoglicemia é o efeito adverso mais frequente e mais grave da insulinoterapia; outros efeitos incluem ganho de peso, lipodistrofia no local de aplicação e, raramente, reações alérgicas.",
+   "f": "Whalen (Farmacologia Ilustrada) · complementa o slide da aula 7"
+  },
+  {
+   "s": "DM1 x DM2 e necessidade de insulina",
+   "d": "B",
+   "q": "Uma criança de 9 anos é diagnosticada com DM1 após quadro de poliúria, polidipsia e perda de peso, com anticorpos anti-GAD positivos. Os pais perguntam se seria possível começar com comprimidos. Considerando a fisiopatologia e a farmacologia apresentadas, assinale a resposta correta:",
+   "a": [
+    "A insulina é indispensável: no DM1 faltam células beta, das quais os secretagogos orais dependem para agir.",
+    "Pode-se iniciar sulfonilureia, pois no DM1 as células beta estão preservadas e apenas resistentes ao estímulo da glicose.",
+    "Pode-se iniciar metformina isolada, pois no DM1 o defeito principal é a resistência periférica à insulina no músculo.",
+    "A insulina só é necessária durante infecções, pois fora delas o pâncreas da criança mantém secreção normal de insulina."
+   ],
+   "j": [
+    "No DM1 há destruição autoimune das células beta e deficiência absoluta de insulina; a reposição é obrigatória desde o diagnóstico. Sulfonilureias e secretagogos não agem sem células beta.",
+    "No DM1 as células beta são destruídas, não preservadas; as sulfonilureias são contraindicadas no DM1.",
+    "Resistência à insulina é característica do DM2; metformina isolada não substitui a insulina no DM1.",
+    "No DM1 a falta de insulina é permanente; suspender a insulina leva à cetoacidose."
+   ],
+   "p": "DM1 = deficiência absoluta de insulina → insulinoterapia obrigatória; secretagogos não funcionam.",
+   "ap": "Diabetes é distúrbio metabólico com hiperglicemia persistente por deficiência de produção de insulina, por defeito na sua ação ou por ambos. No DM2 predomina a resistência à insulina associada a falência progressiva das células beta.",
+   "f": "Slide da aula 7 · Katzung (Farmacologia Básica e Clínica)"
+  }
+ ]
+}

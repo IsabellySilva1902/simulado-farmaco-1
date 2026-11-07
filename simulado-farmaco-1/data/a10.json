@@ -1,0 +1,428 @@
+{
+ "assunto": "aula10-sna",
+ "category": "Aula 10 · Sistema nervoso autônomo",
+ "prefixo": "SNA",
+ "questoes": [
+  {
+   "s": "Epinefrina na anafilaxia",
+   "d": "I",
+   "o": "slide",
+   "q": "Um jovem de 22 anos de idade, sem comorbidades prévias conhecidas, é admitido na unidade de pronto-atendimento 15 minutos após ter sido picado por múltiplas abelhas. O paciente apresenta-se em distress respiratório grave com estridor laríngeo, broncoespasmo difuso, urticária generalizada, angioedema labial e palpebral, além de instabilidade hemodinâmica marcada (pressão arterial: 70 × 40 mmHg; frequência cardíaca: 140 bpm; saturação de O2: 84% em ar ambiente). O diagnóstico firmado é de choque anafilático. A médica socorrista prescreve imediatamente epinefrina (adrenalina) 0,5 mg por via intramuscular na face anterolateral da coxa. Considerando os mecanismos de transdução de sinal dos adrenoceptores e a razão pela qual a epinefrina é o fármaco de escolha na anafilaxia em detrimento de agonistas seletivos beta-2 (como o salbutamol), assinale a opção correta:",
+   "a": [
+    "A epinefrina atua como agonista universal ativando os receptores alfa-1 (causando vasoconstrição que combate a hipotensão e o angioedema de vias aéreas), beta-1 (aumentando o inotropismo e a perfusão tecidual) e beta-2 (promovendo broncodilatação potente e inibindo a degranulação de mastócitos).",
+    "A epinefrina reverte o broncoespasmo anafilático por inibir a via da fosfolipase C e bloquear os receptores muscarínicos M3 diretamente na musculatura lisa brônquica.",
+    "Os agonistas seletivos beta-2 são contraindicados no choque anafilático porque causam vasoconstrição arteriolar intensa e pioram a hipertensão pulmonar, enquanto a epinefrina produz vasodilatação renal seletiva.",
+    "O efeito terapêutico principal da epinefrina no choque anafilático decorre exclusivamente do bloqueio dos receptores alfa-2 pré-sinápticos, o que estimula a liberação de noradrenalina endógena e bloqueia a ação da histamina nos vasos."
+   ],
+   "j": [
+    "A epinefrina age em alfa-1 (Gq: vasoconstrição, reduz edema), beta-1 (Gs: inotropismo e cronotropismo) e beta-2 (Gs: broncodilatação e estabilização de mastócitos). O salbutamol só trataria o broncoespasmo, sem corrigir choque e angioedema.",
+    "A epinefrina é agonista adrenérgico; não bloqueia receptores muscarínicos, e a broncodilatação vem do beta-2 (Gs/AMPc).",
+    "Agonistas beta-2 não causam vasoconstrição; o problema é que não tratam a hipotensão nem o angioedema.",
+    "A epinefrina é agonista (não bloqueadora) dos receptores alfa e beta; seu efeito não é exclusivo de alfa-2."
+   ],
+   "p": "Anafilaxia: epinefrina IM (alfa-1 + beta-1 + beta-2) trata choque, angioedema e broncoespasmo ao mesmo tempo.",
+   "ap": "Na tabela de simpatomiméticos diretos da aula: epinefrina age em alfa-1, alfa-2, beta-1 e beta-2; noradrenalina em alfa-1, alfa-2 e beta-1; isoproterenol em beta-1 e beta-2; fenilefrina em alfa-1; salbutamol, terbutalina e metaproterenol em beta-2.",
+   "f": "Questão do slide da aula 10"
+  },
+  {
+   "s": "Organização das sinapses autonômicas",
+   "d": "B",
+   "q": "Sobre os neurotransmissores das sinapses do sistema nervoso autônomo e da junção neuromuscular, assinale a alternativa correta:",
+   "a": [
+    "Acetilcolina nas pré-ganglionares, nas pós-ganglionares parassimpáticas e na placa motora.",
+    "Noradrenalina em todas as fibras pré-ganglionares, e acetilcolina apenas nas pós-ganglionares simpáticas.",
+    "A placa motora esquelética é adrenérgica e usa receptores beta-2; os gânglios usam receptores muscarínicos.",
+    "As fibras pós-ganglionares parassimpáticas são adrenérgicas e liberam noradrenalina nos órgãos efetores."
+   ],
+   "j": [
+    "Sinapses colinérgicas: pré-ganglionares dos dois sistemas, pós-ganglionares parassimpáticas e junção neuromuscular. Sinapses adrenérgicas: a maioria das pós-ganglionares simpáticas.",
+    "As pré-ganglionares são colinérgicas, não noradrenérgicas.",
+    "A placa motora é colinérgica (receptor nicotínico); os gânglios usam receptores nicotínicos.",
+    "As pós-ganglionares parassimpáticas são colinérgicas."
+   ],
+   "p": "Colinérgicas: pré-ganglionares (ambos), pós-ganglionares parassimpáticas, placa motora. Adrenérgicas: maioria das pós-ganglionares simpáticas.",
+   "ap": "Os receptores nicotínicos ficam nos gânglios autonômicos e na placa motora; os muscarínicos, nos órgãos efetores (coração, músculo liso, olhos, glândulas).",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Receptores e segundos mensageiros",
+   "d": "I",
+   "q": "Sobre os mecanismos de transdução de sinal dos receptores autonômicos, assinale a associação correta:",
+   "a": [
+    "Alfa-1 e M3: Gq (fosfolipase C, IP3 e DAG). Beta-1 e beta-2: Gs (aumento do AMPc).",
+    "Alfa-1 acopla-se à Gs e eleva o AMPc; beta-2 acopla-se à Gq e eleva o IP3, causando broncoconstrição.",
+    "Alfa-2 e M2 acoplam-se à Gs, elevando o AMPc e aumentando a frequência cardíaca de forma sustentada.",
+    "Todos os receptores adrenérgicos são canais iônicos ativados por ligante, sem envolvimento de proteína G."
+   ],
+   "j": [
+    "Alfa-1 e M3: Gq → PLC → IP3/DAG → ↑ Ca2+ (contração de músculo liso, secreção). Beta-1 e beta-2: Gs → adenilil ciclase → ↑ AMPc.",
+    "Está invertido: alfa-1 é Gq e beta-2 é Gs (broncodilatação).",
+    "Alfa-2 e M2 acoplam-se à Gi, reduzindo o AMPc (o M2 também abre canais de K+, reduzindo a frequência cardíaca).",
+    "Os receptores adrenérgicos são acoplados à proteína G; canal iônico é o receptor nicotínico."
+   ],
+   "p": "Gq: alfa-1, M1, M3. Gi: alfa-2, M2. Gs: beta-1, beta-2.",
+   "ap": "A ativação do alfa-2 pré-sináptico inibe a liberação de noradrenalina (autorreceptor); por isso o bloqueio do alfa-2 aumenta a liberação de noradrenalina.",
+   "f": "Rang & Dale · Katzung · complementa o slide da aula 10"
+  },
+  {
+   "s": "Noradrenalina e fenilefrina",
+   "d": "I",
+   "q": "Um paciente em choque séptico recebe noradrenalina em infusão contínua. Em outro leito, um paciente com hipotensão durante a anestesia recebe fenilefrina em bolus e apresenta queda da frequência cardíaca. Assinale a alternativa correta sobre esses fármacos:",
+   "a": [
+    "Fenilefrina é alfa-1 pura (vasoconstrição e bradicardia reflexa); noradrenalina age em alfa e beta-1.",
+    "A fenilefrina é agonista beta-1 seletiva, e a bradicardia decorre do bloqueio direto do nó sinusal pelo fármaco.",
+    "A noradrenalina é agonista beta-2 seletiva e eleva a pressão por broncodilatação e aumento do retorno venoso.",
+    "Os dois são antagonistas alfa-1 e elevam a pressão arterial por aumento reflexo da frequência cardíaca."
+   ],
+   "j": [
+    "Fenilefrina: alfa-1 puro → vasoconstrição → aumento da PA → reflexo barorreceptor → bradicardia. Noradrenalina: alfa-1, alfa-2 e beta-1 (sem ação beta-2 relevante), daí o uso como vasopressor.",
+    "A fenilefrina não age em beta-1; a bradicardia é reflexa.",
+    "A noradrenalina praticamente não age em beta-2.",
+    "Ambos são agonistas, não antagonistas, e a fenilefrina reduz a frequência cardíaca."
+   ],
+   "p": "Fenilefrina: alfa-1 → vasoconstrição + bradicardia reflexa. Noradrenalina: alfa-1, alfa-2, beta-1.",
+   "ap": "Os simpatomiméticos diretos ligam-se aos receptores adrenérgicos como agonistas, produzindo resposta semelhante ao estímulo simpático; os indiretos aumentam a liberação ou impedem a recaptação de noradrenalina.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Dobutamina",
+   "d": "B",
+   "q": "Um homem de 66 anos com insuficiência cardíaca descompensada, débito cardíaco baixo e extremidades frias precisa de suporte inotrópico de curto prazo na unidade coronariana. Segundo a aula, assinale o fármaco indicado e seu receptor principal:",
+   "a": [
+    "Dobutamina, agonista principalmente beta-1, que aumenta a contratilidade miocárdica e o débito cardíaco.",
+    "Fenilefrina, agonista alfa-1, que aumenta a contratilidade ao elevar a pós-carga.",
+    "Salbutamol intravenoso, agonista beta-2, que é o inotrópico de escolha na insuficiência cardíaca.",
+    "Propranolol, antagonista beta, que aumenta o débito cardíaco agudamente na descompensação."
+   ],
+   "j": [
+    "A dobutamina é agonista predominantemente beta-1 (pequeno efeito beta-2), aumenta a contratilidade e o débito; é usada no tratamento de curto prazo da insuficiência cardíaca congestiva.",
+    "A fenilefrina aumenta a pós-carga e não é inotrópica; pioraria o débito na IC.",
+    "O salbutamol é broncodilatador beta-2, não inotrópico de escolha.",
+    "Betabloqueadores reduzem a contratilidade agudamente e não são iniciados na descompensação com baixo débito."
+   ],
+   "p": "Dobutamina: beta-1 → inotropismo → ↑ débito; IC descompensada (curto prazo).",
+   "ap": "A dobutamina é catecolamina metabolizada pela COMT e tem meia-vida curta, o que exige infusão intravenosa contínua.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Agonistas beta-2",
+   "d": "B",
+   "q": "Uma criança de 8 anos chega ao pronto-socorro com crise de broncoespasmo agudo. É prescrito salbutamol por via inalatória. Após as inalações, apresenta tremor fino e taquicardia leve. Assinale a alternativa correta:",
+   "a": [
+    "É agonista beta-2 seletivo e broncodilata; tremor e taquicardia vêm de estímulo beta residual.",
+    "É antagonista muscarínico que broncodilata, e o tremor fino indica intoxicação atropínica em início de quadro.",
+    "É agonista alfa-1 que reduz o edema brônquico, e a taquicardia é reflexa à vasoconstrição periférica intensa.",
+    "É agonista beta-1 seletivo, e a broncodilatação é efeito secundário ao aumento do débito cardíaco."
+   ],
+   "j": [
+    "Salbutamol, terbutalina e metaproterenol são beta-2 seletivos usados por via inalatória no broncoespasmo agudo; tremor (beta-2 no músculo esquelético) e taquicardia são efeitos esperados, minimizados pela via inalatória.",
+    "Antimuscarínico broncodilatador é o ipratrópio, não o salbutamol.",
+    "O salbutamol não age em alfa-1.",
+    "O salbutamol é beta-2 seletivo, não beta-1."
+   ],
+   "p": "Beta-2 seletivos (salbutamol, terbutalina, metaproterenol): broncodilatação, via inalatória.",
+   "ap": "Segundo a aula, o metaproterenol não é metabolizado pela MAO nem pela COMT e a terbutalina é resistente à COMT, o que prolonga seus efeitos.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Tiramina e IMAO",
+   "d": "I",
+   "q": "Uma mulher de 50 anos em uso de inibidor da monoamina oxidase (IMAO) para depressão refratária janta queijo curado e vinho tinto. Uma hora depois, apresenta cefaleia occipital intensa, palpitações e PA de 220 × 120 mmHg. Assinale o mecanismo da crise:",
+   "a": [
+    "A tiramina, não degradada pela MAO inibida, chega aos terminais e libera noradrenalina estocada.",
+    "A tiramina bloqueia diretamente os receptores alfa-1, causando vasodilatação com taquicardia reflexa muito intensa.",
+    "O IMAO inibe a COMT do queijo, o que aumenta a absorção de histamina e causa crise hipertensiva alérgica.",
+    "A tiramina inibe a recaptação de serotonina e provoca síndrome serotoninérgica, sem alterar a pressão arterial."
+   ],
+   "j": [
+    "A tiramina é simpatomimético de ação indireta presente em queijos, vinho, cerveja, embutidos etc. Com a MAO inibida, ela não é degradada, entra nos terminais e desloca a noradrenalina estocada: crise hipertensiva grave.",
+    "A tiramina não bloqueia receptores; ela libera noradrenalina, que causa vasoconstrição.",
+    "O mecanismo não envolve COMT do alimento nem histamina.",
+    "O quadro é de crise hipertensiva por liberação de noradrenalina."
+   ],
+   "p": "Tiramina + IMAO → liberação maciça de noradrenalina → crise hipertensiva.",
+   "ap": "A tiramina não tem uso terapêutico; está presente em queijo, vinho, iogurte, feijão, banana, cerveja, licores, molho de soja, fígado, alimentos em conserva e caviar.",
+   "f": "Slide da aula 10 · Katzung"
+  },
+  {
+   "s": "Efedrina e anfetamina",
+   "d": "I",
+   "q": "Sobre os simpatomiméticos de ação indireta e mista apresentados em aula, assinale a alternativa correta:",
+   "a": [
+    "Efedrina: ação mista, resiste a MAO e COMT, ação prolongada e passagem para o SNC.",
+    "A efedrina é catecolamina rapidamente degradada pela COMT, com ação de poucos minutos e sem qualquer efeito central.",
+    "A anfetamina é agonista direta beta-2 seletiva, sem efeito central, usada como broncodilatador de resgate na asma.",
+    "A anfetamina inibe a liberação de noradrenalina das vesículas, sendo usada para induzir sono na narcolepsia."
+   ],
+   "j": [
+    "A efedrina age em beta e alfa-1 e libera noradrenalina; por não ser degradada por MAO e COMT tem ação longa, e por atravessar a BHE estimula o SNC. Eleva a PA, dilata bronquíolos e aumenta o tônus muscular.",
+    "A efedrina não é catecolamina e resiste à MAO e à COMT.",
+    "A anfetamina é de ação indireta e tem acentuado efeito estimulante central.",
+    "A anfetamina desloca a noradrenalina das vesículas para a fenda (aumenta a liberação); é usada como estimulante na narcolepsia e como anorexígeno."
+   ],
+   "p": "Efedrina: mista, resiste a MAO/COMT, longa, entra no SNC. Anfetamina: indireta, libera NA, estimulante central.",
+   "ap": "Simpatomiméticos indiretos dependem da noradrenalina estocada; por isso doses repetidas em sequência podem ter efeito progressivamente menor (taquifilaxia) quando os estoques se esgotam.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Fentolamina (alfa não seletivo)",
+   "d": "I",
+   "q": "Um paciente recebe fentolamina, antagonista alfa não seletivo e reversível. Além da queda da pressão arterial, apresenta taquicardia importante e congestão nasal. Assinale a explicação correta para a taquicardia:",
+   "a": [
+    "O bloqueio alfa-2 aumenta a liberação de noradrenalina, que age nos receptores beta-1 cardíacos.",
+    "A fentolamina é agonista beta-1 direta, e a taquicardia é seu efeito primário sobre o nó sinusal.",
+    "A fentolamina bloqueia receptores muscarínicos M2 do coração, removendo o tônus vagal de repouso.",
+    "A taquicardia decorre de hipertensão rebote causada pela vasoconstrição alfa-1 residual do fármaco."
+   ],
+   "j": [
+    "A fentolamina bloqueia alfa-1 e alfa-2: a hipotensão gera taquicardia reflexa e o bloqueio alfa-2 aumenta a liberação de noradrenalina, que age em beta-1 (não bloqueados).",
+    "A fentolamina não é agonista beta.",
+    "Ela não bloqueia receptores muscarínicos.",
+    "A fentolamina bloqueia o alfa-1; não há vasoconstrição residual nem hipertensão rebote."
+   ],
+   "p": "Alfa não seletivo (fentolamina): hipotensão postural, taquicardia reflexa (↑ NA por bloqueio alfa-2), congestão nasal.",
+   "ap": "Outros efeitos da fentolamina citados em aula: inibição da ejaculação (bloqueio alfa-1 com predomínio parassimpático). Já foi usada na disfunção erétil por relaxar a musculatura lisa trabecular.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Prazosina (alfa-1 seletivo)",
+   "d": "I",
+   "q": "Um homem de 68 anos com hipertensão e hiperplasia prostática benigna, com jato urinário fraco e noctúria, inicia doxazosina. Assinale a alternativa que explica a escolha da classe e sua vantagem em relação à fentolamina:",
+   "a": [
+    "O bloqueio alfa-1 relaxa colo vesical e próstata e baixa a PA, com menos taquicardia reflexa.",
+    "O bloqueio alfa-2 seletivo aumenta a liberação de noradrenalina e contrai a próstata, melhorando o jato urinário.",
+    "A doxazosina é agonista beta-2 que relaxa a bexiga e reduz a PA, sem qualquer risco de hipotensão postural.",
+    "A doxazosina inibe a 5-alfa-redutase e reduz o volume da próstata já nas primeiras horas de tratamento."
+   ],
+   "j": [
+    "Prazosina, terazosina e doxazosina bloqueiam alfa-1 seletivamente: vasodilatação e queda da PA, alívio da obstrução urinária na HPB; sem bloqueio alfa-2, não aumentam a NA, com relativa ausência de taquicardia e menos hipotensão postural.",
+    "A doxazosina não age em alfa-2, e a contração da próstata pioraria o jato.",
+    "A doxazosina é antagonista alfa-1, não agonista beta-2; pode causar hipotensão postural, principalmente na primeira dose.",
+    "Inibidores da 5-alfa-redutase (finasterida) são outra classe e agem em meses."
+   ],
+   "p": "Alfa-1 seletivos (-zosina): HAS + HPB; sem ↑ NA → menos taquicardia; atenção à hipotensão da primeira dose.",
+   "ap": "O slide cita ainda que a prazosina eleva o HDL e reduz o LDL e que os alfa-1 seletivos de meia-vida longa permitem dose única diária.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Betabloqueadores: seletividade",
+   "d": "I",
+   "q": "Uma mulher de 45 anos com asma moderada e enxaqueca frequente procura tratamento profilático. O neurologista pensa em propranolol. Assinale a análise correta:",
+   "a": [
+    "O propranolol não é seletivo: o bloqueio beta-2 causa broncoconstrição e é contraindicado na asma.",
+    "O propranolol é cardiosseletivo (beta-1) e por isso é o betabloqueador mais seguro para pacientes asmáticos.",
+    "O propranolol é agonista beta-2 e, além de prevenir a enxaqueca, também trata a asma da paciente.",
+    "Todos os betabloqueadores são igualmente contraindicados na asma, pois nenhum deles tem seletividade de receptor."
+   ],
+   "j": [
+    "O propranolol bloqueia beta-1 e beta-2; o bloqueio beta-2 brônquico causa broncoconstrição. O slide o contraindica em asmáticos (e pede cautela em diabéticos).",
+    "Cardiosseletivos (beta-1) são atenolol, metoprolol, acebutolol e esmolol, não o propranolol.",
+    "O propranolol é antagonista, não agonista.",
+    "Há seletividade: os beta-1 seletivos causam menos broncoespasmo e foram apresentados como opção em asmáticos e diabéticos."
+   ],
+   "p": "Propranolol: não seletivo → broncoespasmo (beta-2). Cardiosseletivos: atenolol, metoprolol, acebutolol, esmolol.",
+   "ap": "Usos terapêuticos dos betabloqueadores citados em aula: hipertensão, enxaqueca e angina. A cardiosseletividade é dose-dependente; em doses altas, mesmo os beta-1 seletivos podem bloquear beta-2.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Betabloqueador e hipoglicemia",
+   "d": "A",
+   "q": "Um homem de 55 anos com DM1 em insulinoterapia passa a usar propranolol após um infarto. Semanas depois, é encontrado confuso, com glicemia de 42 mg/dL, sem ter percebido tremores nem palpitações; apenas suou. Assinale a explicação mais adequada:",
+   "a": [
+    "O betabloqueio reduz a glicogenólise e mascara tremor e taquicardia; a sudorese é colinérgica.",
+    "O propranolol estimula diretamente a secreção de insulina pela célula beta, o que causa a hipoglicemia grave.",
+    "O propranolol aumenta a glicogenólise hepática, e a hipoglicemia decorre apenas de erro na dose de insulina.",
+    "O propranolol bloqueia receptores muscarínicos das glândulas sudoríparas e impede a sudorese de alerta."
+   ],
+   "j": [
+    "O bloqueio beta reduz a glicogenólise e mascara os sintomas adrenérgicos de alerta (palpitação, tremor); a sudorese é colinérgica e permanece. Por isso, o slide pede cautela em diabéticos e prefere os cardiosseletivos.",
+    "Betabloqueadores não estimulam a secreção de insulina (o slide da aula 8 lembra que reduzem sua liberação).",
+    "O bloqueio beta reduz (não aumenta) a glicogenólise.",
+    "O propranolol não bloqueia receptores muscarínicos; a sudorese, inclusive, foi o único sinal presente."
+   ],
+   "p": "Betabloqueador em diabético: ↓ glicogenólise + mascara sintomas adrenérgicos da hipoglicemia (sudorese persiste).",
+   "ap": "As glândulas sudoríparas são inervadas por fibras simpáticas pós-ganglionares que liberam acetilcolina (receptores muscarínicos), exceção à regra das pós-ganglionares simpáticas adrenérgicas.",
+   "f": "Slide da aula 10 · Katzung"
+  },
+  {
+   "s": "Reversão da epinefrina",
+   "d": "A",
+   "q": "Em um experimento farmacológico, a injeção de epinefrina em um animal eleva a pressão arterial. Após pré-tratamento com fentolamina, a mesma dose de epinefrina passa a reduzir a pressão. Assinale a explicação para o fenômeno:",
+   "a": [
+    "Bloqueado o alfa-1, sobra a vasodilatação beta-2 sem oposição e a pressão arterial cai.",
+    "A fentolamina converte a epinefrina em acetilcolina, que causa vasodilatação por via muscarínica.",
+    "A fentolamina bloqueia os receptores beta-2, e a queda da pressão decorre da redução do débito.",
+    "Com o alfa bloqueado, a epinefrina passa a agir como antagonista beta-1 e reduz a contratilidade."
+   ],
+   "j": [
+    "A epinefrina age em alfa-1 (vasoconstrição) e beta-2 (vasodilatação); normalmente predomina o alfa-1. Bloqueado o alfa, sobra a vasodilatação beta-2 sem oposição e a PA cai.",
+    "Não há conversão de epinefrina em acetilcolina.",
+    "A fentolamina bloqueia receptores alfa, não beta.",
+    "A epinefrina continua agonista; não passa a antagonista."
+   ],
+   "p": "Reversão da epinefrina: bloqueio alfa → efeito beta-2 vasodilatador sem oposição → queda da PA.",
+   "ap": "A noradrenalina, que tem pouca ação beta-2, não sofre essa reversão; após bloqueio alfa, sua resposta pressora apenas diminui.",
+   "f": "Rang & Dale · Katzung · complementa o slide da aula 10"
+  },
+  {
+   "s": "Ésteres da colina",
+   "d": "B",
+   "q": "Uma puérpera de 28 anos apresenta retenção urinária não obstrutiva após o parto, sem melhora com medidas não farmacológicas. Assinale o agonista colinérgico indicado e o motivo da escolha:",
+   "a": [
+    "Betanecol, éster da colina resistente às colinesterases, que aumenta o tônus do detrusor.",
+    "Acetilcolina por via oral, pois é bem absorvida e tem ação prolongada sobre a musculatura da bexiga.",
+    "Metacolina, pois é usada rotineiramente no tratamento crônico da retenção urinária pós-parto.",
+    "Atropina, pois o bloqueio muscarínico contrai o detrusor e favorece o esvaziamento da bexiga."
+   ],
+   "j": [
+    "O betanecol resiste à AChE e à BuChE, age em receptores muscarínicos e aumenta o tônus do detrusor e a motilidade gástrica e intestinal; é usado na retenção urinária.",
+    "A acetilcolina é mal absorvida por via oral e degradada rapidamente; o uso médico é restrito à cirurgia oftálmica.",
+    "A metacolina é usada no diagnóstico de asma (teste de hiperreatividade brônquica).",
+    "A atropina relaxa o detrusor e causa retenção urinária."
+   ],
+   "p": "Betanecol: retenção urinária. Metacolina: teste de asma. Carbacol: miótico em cirurgia ocular. ACh: cirurgia oftálmica.",
+   "ap": "O carbacol tem ação muscarínica e nicotínica, é resistente à AChE e à BuChE e é usado como miótico e antiglaucomatoso, sobretudo em pacientes tolerantes à pilocarpina.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Metacolina e pilocarpina",
+   "d": "I",
+   "q": "Sobre os agonistas colinérgicos de ação direta apresentados em aula, assinale a alternativa correta:",
+   "a": [
+    "Pilocarpina: ação muscarínica, reduz a pressão intraocular e é usada no glaucoma, sobretudo em emergências.",
+    "A metacolina é usada no tratamento crônico da asma, pois sua ação muscarínica relaxa a musculatura brônquica.",
+    "A pilocarpina causa midríase e é usada para dilatar a pupila antes do exame de fundo de olho.",
+    "A acetilcolina é a escolha para o tratamento oral do glaucoma crônico, por resistir às colinesterases."
+   ],
+   "j": [
+    "A pilocarpina tem ação principalmente muscarínica (miose e aumento da drenagem do humor aquoso), é menos potente que a ACh e é usada no glaucoma, especialmente em emergência; o timolol é usado no tratamento crônico.",
+    "A metacolina provoca broncoconstrição; por isso é usada no diagnóstico de hiperreatividade brônquica, não no tratamento.",
+    "Agonistas muscarínicos causam miose, não midríase.",
+    "A ACh é mal absorvida e rapidamente degradada; seu uso é restrito à cirurgia oftálmica."
+   ],
+   "p": "Pilocarpina: muscarínica, miose, ↓ PIO (glaucoma, emergência). Metacolina: diagnóstico de asma.",
+   "ap": "A pilocarpina é amina terciária, que pode entrar no SNC; também estimula a secreção salivar e é usada na xerostomia.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Anticolinesterásicos reversíveis",
+   "d": "I",
+   "q": "Uma mulher de 30 anos tem ptose palpebral e fraqueza muscular que piora ao longo do dia, com diagnóstico de miastenia grave. Ao final de uma cirurgia, outro paciente precisa reverter o bloqueio neuromuscular causado por rocurônio. Assinale o fármaco útil nas duas situações e seu mecanismo:",
+   "a": [
+    "Neostigmina, que inibe a colinesterase e aumenta a acetilcolina na placa motora (com atropina).",
+    "Atropina, antagonista muscarínico que aumenta a força na placa motora e reverte o efeito do rocurônio.",
+    "Isoflurofato, anticolinesterásico irreversível de escolha para o uso crônico na miastenia grave.",
+    "Pralidoxima, que bloqueia receptores nicotínicos e reverte a fraqueza muscular da miastenia grave."
+   ],
+   "j": [
+    "A neostigmina inibe reversivelmente a acetilcolinesterase: mais ACh na placa motora melhora a miastenia e compete com o bloqueador neuromuscular não despolarizante. A atropina associada bloqueia bradicardia e secreções.",
+    "A atropina não atua na placa motora (receptor nicotínico).",
+    "Organofosforados irreversíveis não são usados na miastenia; o isoflurofato tem uso restrito ao glaucoma.",
+    "A pralidoxima reativa a acetilcolinesterase fosforilada (intoxicação por organofosforado); não trata miastenia."
+   ],
+   "p": "Neostigmina (reversível, quaternária): miastenia, distensão/retenção pós-operatória, reversão de BNM competitivos (+ atropina).",
+   "ap": "O edrofônio, de ação muito curta (10–20 min), é usado no diagnóstico da miastenia; a fisostigmina, amina terciária, atravessa para o SNC.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Intoxicação por organofosforados",
+   "d": "A",
+   "q": "Um agricultor de 38 anos é trazido após exposição a inseticida organofosforado. Apresenta miose, sialorreia, broncorreia, bradicardia, diarreia, fasciculações e fraqueza muscular. Assinale o tratamento e a justificativa corretos:",
+   "a": [
+    "Atropina para os efeitos muscarínicos e pralidoxima para reativar a enzima antes do envelhecimento.",
+    "Fisostigmina para aumentar a acetilcolina disponível e competir com o organofosforado pelo receptor.",
+    "Neostigmina associada à pralidoxima, pois ambas inibem a acetilcolinesterase de forma reversível.",
+    "Apenas pralidoxima, pois a atropina agravaria a bradicardia e a broncorreia do paciente."
+   ],
+   "j": [
+    "Organofosforados inibem irreversivelmente a AChE: síndrome muscarínica (secreções, miose, bradicardia) e nicotínica (fasciculações, fraqueza). Atropina bloqueia os muscarínicos; pralidoxima reativa a enzima se dada antes do envelhecimento.",
+    "A fisostigmina também é anticolinesterásico e pioraria o excesso de ACh.",
+    "Neostigmina pioraria o quadro; a pralidoxima reativa (não inibe) a enzima.",
+    "A atropina é a base do tratamento: reverte bradicardia e broncorreia."
+   ],
+   "p": "Organofosforado: atropina (muscarínico) + pralidoxima (reativa AChE, antes do envelhecimento).",
+   "ap": "O envelhecimento é a perda de um grupo alquila da enzima fosforilada, que torna a ligação definitiva e insensível à pralidoxima. A atropina não corrige a fraqueza muscular, que é nicotínica.",
+   "f": "Slide da aula 10 · Katzung"
+  },
+  {
+   "s": "Intoxicação atropínica",
+   "d": "I",
+   "q": "Uma criança de 4 anos ingere colírio de atropina da avó. Apresenta pele quente, seca e avermelhada, temperatura de 39 °C, pupilas dilatadas, boca seca, taquicardia, retenção urinária e agitação com delírio. Assinale o antídoto e o motivo da escolha:",
+   "a": [
+    "Fisostigmina, anticolinesterásico que entra no SNC e reverte os efeitos centrais e periféricos.",
+    "Neostigmina, pois é o anticolinesterásico que melhor atravessa a barreira hematoencefálica.",
+    "Pralidoxima, pois ela reativa os receptores muscarínicos bloqueados pela atropina.",
+    "Epinefrina, pois antagoniza os efeitos anticolinérgicos e reduz a temperatura corporal."
+   ],
+   "j": [
+    "A fisostigmina (amina terciária, lipossolúvel) atravessa a BHE, aumenta a ACh e reverte a toxicidade anticolinérgica, inclusive central; o diazepam pode controlar a agitação, junto com medidas de suporte.",
+    "A neostigmina é amônio quaternário e não entra bem no SNC.",
+    "A pralidoxima é usada na intoxicação por organofosforados; não age sobre o bloqueio atropínico.",
+    "A epinefrina agravaria a taquicardia e a hipertermia."
+   ],
+   "p": "Intoxicação atropínica: seco, quente, vermelho, midríase, delírio, retenção urinária → fisostigmina.",
+   "ap": "Mnemônico clássico: seco como um osso (anidrose), vermelho como uma beterraba (rubor), cego como um morcego (midríase), quente como uma lebre (hipertermia) e louco como um chapeleiro (delírio).",
+   "f": "Slide da aula 10 · Katzung"
+  },
+  {
+   "s": "Escopolamina",
+   "d": "B",
+   "q": "Um passageiro de 35 anos que costuma ter náuseas em viagens de navio pergunta por um medicamento preventivo. O médico indica um adesivo transdérmico de escopolamina. Assinale a característica que diferencia a escopolamina da atropina, segundo a aula:",
+   "a": [
+    "Alta permeabilidade no SNC, o que a torna útil na cinetose, com efeitos periféricos como os da atropina.",
+    "É agonista muscarínico que acelera o esvaziamento gástrico e, por isso, previne as náuseas do movimento.",
+    "É amônio quaternário que não atravessa a barreira hematoencefálica e age somente na parede do estômago.",
+    "É anticolinesterásico reversível usado para aumentar a motilidade do aparelho vestibular."
+   ],
+   "j": [
+    "A escopolamina é bloqueador muscarínico com o mesmo perfil da atropina, exceto pela alta permeabilidade no SNC; é indicada para a cinetose (enjoo de movimento). Pode causar sonolência e efeitos anticolinérgicos.",
+    "A escopolamina é antagonista, não agonista, muscarínico.",
+    "Ela atravessa bem a BHE; amônio quaternário é o ipratrópio.",
+    "Ela bloqueia receptores muscarínicos; não inibe a acetilcolinesterase."
+   ],
+   "p": "Escopolamina: antimuscarínico com alta penetração no SNC → cinetose.",
+   "ap": "Efeitos adversos dos antimuscarínicos citados em aula: visão turva, boca seca, taquicardia e constipação; a atropina também reduz a hipermotilidade vesical (enurese) e a secreção salivar.",
+   "f": "Slide da aula 10"
+  },
+  {
+   "s": "Ipratrópio",
+   "d": "I",
+   "q": "Um homem de 70 anos com DPOC e glaucoma de ângulo aberto controlado usa ipratrópio inalatório. O residente se preocupa com efeitos anticolinérgicos centrais semelhantes aos da atropina. Assinale a alternativa correta:",
+   "a": [
+    "É amônio quaternário inalatório: broncodilata com pouca absorção sistêmica e pouco efeito no SNC.",
+    "É agonista beta-2 de longa duração, sem qualquer relação com os receptores muscarínicos brônquicos.",
+    "Atravessa intensamente a barreira hematoencefálica, sendo o antimuscarínico de escolha para a cinetose.",
+    "É anticolinesterásico inalatório que aumenta a acetilcolina e causa broncoconstrição terapêutica."
+   ],
+   "j": [
+    "O ipratrópio é antimuscarínico sintético quaternário: por via inalatória, bloqueia receptores muscarínicos brônquicos (broncodilatação na asma e DPOC) com pouca absorção e pouca entrada no SNC.",
+    "Ele é antimuscarínico, não agonista beta-2.",
+    "A grande permeabilidade no SNC é característica da escopolamina; por ser quaternário, o ipratrópio quase não atravessa a BHE.",
+    "Anticolinesterásicos causariam broncoconstrição, que não é terapêutica."
+   ],
+   "p": "Ipratrópio: antimuscarínico quaternário inalatório, broncodilatador (asma, DPOC), pouco efeito central.",
+   "ap": "Os antimuscarínicos derivados de amônio quaternário têm carga permanente e baixa lipossolubilidade, o que reduz sua absorção e a passagem pela barreira hematoencefálica.",
+   "f": "Katzung · Rang & Dale · complementa o slide da aula 10"
+  },
+  {
+   "s": "Receptores muscarínicos x nicotínicos",
+   "d": "B",
+   "q": "Um bloqueador neuromuscular paralisa a musculatura esquelética, mas não altera a frequência cardíaca nem a secreção salivar. Assinale a explicação baseada na localização dos receptores colinérgicos:",
+   "a": [
+    "Bloqueia nicotínicos da placa motora; coração e glândulas respondem por receptores muscarínicos.",
+    "Bloqueia receptores muscarínicos da placa motora; o coração e as glândulas usam receptores nicotínicos.",
+    "Bloqueia receptores beta-2 do músculo esquelético, enquanto o coração responde por receptores alfa-1.",
+    "Bloqueia todos os receptores colinérgicos, mas coração e glândulas não dependem do sistema autônomo."
+   ],
+   "j": [
+    "Receptores nicotínicos ficam na placa motora (SN somático) e nos gânglios; receptores muscarínicos ficam nos órgãos efetores autonômicos (coração, músculo liso, olhos, glândulas).",
+    "A placa motora usa receptores nicotínicos, e os órgãos efetores, muscarínicos.",
+    "A contração esquelética depende de receptores nicotínicos, não adrenérgicos.",
+    "Coração e glândulas são regulados pelo SNA; o fármaco é seletivo para o nicotínico muscular."
+   ],
+   "p": "Nicotínicos: placa motora e gânglios. Muscarínicos: órgãos efetores (coração, músculo liso, olhos, glândulas).",
+   "ap": "A acetilcolina é sintetizada no terminal a partir de colina e acetil-CoA; sua ação termina pela hidrólise rápida pela acetilcolinesterase na fenda.",
+   "f": "Slide da aula 10"
+  }
+ ]
+}
